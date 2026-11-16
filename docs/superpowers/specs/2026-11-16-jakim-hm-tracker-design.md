@@ -135,17 +135,19 @@ Pre-populated with all 197 days from 2026-11-16 to 2027-05-31.
    * Checkmark (completed), Cross/Dash (missed/rest), Alert (pending).
 
 ### 4.3 Exercise Library Screen (Strength Training for Runners)
-Interactive directory of the 8 runner-specific strength exercises:
-1. Bulgarian Split Squat (Quadriceps & Pelvic Stability)
-2. Single-Leg Calf Raises (Soleus & Achilles / Shin Splints Prevention)
-3. Glute Bridge & Single-Leg Glute Bridge (Glute activation for 9-to-6 office posture)
-4. Side Plank with Leg Raise (Gluteus Medius / ITBS Prevention)
-5. Front Plank with Shoulder Taps (Anti-rotational core)
-6. Bird-Dog (Cross-body sling & lower back support)
-7. Single-Leg Romanian Deadlift (Hamstring durability & ankle stability)
-8. Wall Sit (Isometric knee tendon conditioning)
+Interactive directory of the 8 runner-specific strength exercises with dedicated visual illustration images (`assets/images/exercises/*.png`):
+1. **Bulgarian Split Squat** (Quadriceps & Pelvic Stability) — Illustrated body posture & rear-foot elevation.
+2. **Single-Leg Calf Raises** (Soleus & Achilles / Shin Splints Prevention) — Illustrated heel-drop and peak extension on a step.
+3. **Glute Bridge & Single-Leg Glute Bridge** (Glute activation for 9-to-6 office posture) — Illustrated pelvic lift and alignment.
+4. **Side Plank with Leg Raise** (Gluteus Medius / ITBS Prevention) — Illustrated side elevation & leg abduction.
+5. **Front Plank with Shoulder Taps** (Anti-rotational core) — Illustrated stable shoulder tap execution.
+6. **Bird-Dog** (Cross-body sling & lower back support) — Illustrated opposite arm and leg reach.
+7. **Single-Leg Romanian Deadlift** (Hamstring durability & ankle stability) — Illustrated hip hinge and neutral spine.
+8. **Wall Sit** (Isometric knee tendon conditioning) — Illustrated 90-degree back-to-wall hold.
 
-Each item displays: Target muscles, Half Marathon benefits, step-by-step form cues, recommended sets/reps, and common mistakes to avoid.
+Each item displays: 
+* **Visual Illustration Image:** High-clarity visual guide showing starting and finishing positions.
+* **Metadata:** Target muscles, Half Marathon benefits, step-by-step form cues, recommended sets/reps, and common mistakes to avoid.
 
 ### 4.4 AI Coach Export & Progress Analytics Screen
 1. **Progress Dashboard:**
