@@ -27,6 +27,11 @@ jobs:
           channel: 'stable'
           cache: true
 
+      - name: Configure Android Local Properties
+        run: |
+          mkdir -p android
+          echo "flutter.sdk=$FLUTTER_ROOT" > android/local.properties
+
       - name: Generate Training Assets & Illustrations
         run: python3 tool/generate_assets.py
 
